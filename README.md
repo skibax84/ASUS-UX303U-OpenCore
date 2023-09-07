@@ -1,6 +1,6 @@
-# Y520-15IKBN-OpenCore
+# ASUS-UX303U-OpenCore
 <p align="center">
-<b>Ready-to-use OpenCore 0.8.7 EFI for Lenovo Legion Y520-15IKBN</b>
+<b>Ready-to-use OpenCore 0.8.7 EFI for ASUS-UX303U-OpenCore - perfect 1:1 copy of Lenovo Legion Y520-15IKBN</b>
 </p>
 
 ![macOS Ventura 13.0 Screenshot](img/ventura13.png)
