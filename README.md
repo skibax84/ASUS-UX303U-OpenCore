@@ -22,7 +22,7 @@ WIFI: Intel
 | **Intel GPU (iGPU)** | ✅ | - |
 | **Audio** | ✅ | - |
 | **Microphone** | ✅ | - |
-| **Webcam** | ✅ | - |
+| **Webcam** | ❌ | - |
 | **External display via HDMI** | ✅ | - |
 | **Build-in keyboard** | ✅ | - |
 | **Trackpad** | ✅ | - |
